@@ -8,6 +8,7 @@ def generate_response(user_input):
     "Sorry to hear that",
     "Tell me more!",
     "Perfect",
+    "cool",
     "Thats cool isn't it",
     "Most likely",
     "Wow, Awesome"
